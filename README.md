@@ -6,7 +6,9 @@ Dê vida às suas perguntas frequentes com este elegante aplicativo acordeon em 
 Este projeto é uma aplicação web que apresenta uma lista de perguntas frequentes com respostas ocultas. Ao clicar em uma pergunta, um efeito acordeon suave é ativado, revelando a resposta enquanto a seta muda de cor. Além disso, ao abrir um item, todos os outros são automaticamente fechados, proporcionando uma experiência de usuário intuitiva e interativa.
 
 <h2>Demonstração</h2>
-Veja o projeto em ação: Visualizar Demo
+Veja o projeto em ação: https://carvalhorhuan.github.io/Exercicio_Dev_Quest/
+
+![Animação](https://github.com/carvalhorhuan/Exercicio_Dev_Quest/assets/131679296/0fb2d80e-ac66-4ed6-8a35-7623b1229c88)
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
